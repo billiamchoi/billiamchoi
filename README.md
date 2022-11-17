@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Voice Phishing AI Dectecting App
-- 🌱 I’m currently learning on LSTM Autoencoder
-- 🤔 I’m looking for help with React Native
-- 💬 Ask me about Elasticsearch
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning on Springboot
+- 🤔 I’m looking for help with Java
